@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  this is my first code
   def login():
@@ -7,3 +8,9 @@
   def logout():
   pass
 
+=======
+hello iam suresh
+how are you
+def login with facebook():
+    pass
+>>>>>>> 7a68e2d (added login with facebook)
